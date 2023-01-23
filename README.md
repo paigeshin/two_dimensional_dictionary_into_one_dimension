@@ -1,6 +1,6 @@
 # two_dimensional_dictionary_into_one_dimension
 
-``swift
+```swift
 
 fileprivate extension Dictionary {
     var flattened: [String: Any] {
